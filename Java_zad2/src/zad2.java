@@ -1,3 +1,4 @@
+//Paulina Piotrowska 2K333
 import java.util.Scanner;
 
 public class zad2 {
